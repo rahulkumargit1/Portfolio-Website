@@ -1,12 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# provide me in single readme
-
-Certainly! Below is a complete, single-file `README.md` you can copy and use for your portfolio website project. Just update the links and usernames where needed.
-
-***
-
-```markdown
 # Vaishavi P Rao Portfolio Website
 
 > **Live site:** [https://vaishaviprao.netlify.app](https://vaishaviprao.netlify.app)
@@ -107,12 +98,3 @@ This project is open-source, free to use under the [MIT License](LICENSE).
 
 
 ***
-
-**Instructions:**
-
-- Copy all of the above and save as `README.md`
-- Replace placeholders like `yourusername`, `your_instagram`, `your_linkedin`, `your_twitter` with your actual usernames.
-- If you don’t want a Netlify badge, you can remove the badge line at the very top.
-
-This single README gives everything a GitHub visitor or recruiter needs to know about your project in a clear, professional, and colorful way!
-
